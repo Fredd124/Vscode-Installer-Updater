@@ -25,4 +25,4 @@ Before running this script, ensure you have the following installed:
    ```bash
    sudo python3 vscode_installer_updater.py
    ```
-   Note: The script requires sudo privileges to install the Discord .deb package and manage system packages. Make sure to run it in an environment where you have these privileges.
+   Note: The script requires sudo privileges to install the Vscode .deb package and manage system packages. Make sure to run it in an environment where you have these privileges.
